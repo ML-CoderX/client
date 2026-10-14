@@ -1,0 +1,37 @@
+{
+  "results": [
+    {
+      "mode": "full",
+      "instance": "6020.599999997765",
+      "pins": 2
+    },
+    {
+      "mode": "reduced",
+      "instance": "6020.599999997765",
+      "pins": 0
+    },
+    {
+      "mode": "full",
+      "instance": "6020.599999997765",
+      "pins": 2
+    },
+    {
+      "mode": "paused",
+      "instance": "6020.599999997765",
+      "pins": 0
+    },
+    {
+      "mode": "full",
+      "instance": "6020.599999997765",
+      "pins": 2
+    }
+  ],
+  "wheel": [
+    141,
+    341,
+    487,
+    500
+  ],
+  "skipIntro": true,
+  "errors": []
+}

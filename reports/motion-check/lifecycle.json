@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "mode": "full",
+      "instance": "1848.5",
+      "pins": 2
+    },
+    {
+      "mode": "reduced",
+      "instance": "1848.5",
+      "pins": 0
+    },
+    {
+      "mode": "full",
+      "instance": "1848.5",
+      "pins": 2
+    },
+    {
+      "mode": "paused",
+      "instance": "1848.5",
+      "pins": 0
+    },
+    {
+      "mode": "full",
+      "instance": "1848.5",
+      "pins": 2
+    }
+  ],
+  "wheel": [
+    97,
+    329,
+    484,
+    500
+  ],
+  "errors": []
+}

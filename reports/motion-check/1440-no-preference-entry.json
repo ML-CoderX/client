@@ -1,0 +1,965 @@
+[
+  {
+    "t": 344.9,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "1px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 629.5,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "1px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 962.8,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "1px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "0.0M+"
+  },
+  {
+    "t": 1289.2,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "0.314273px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "0.0M+"
+  },
+  {
+    "t": 1337.9,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "0.176739px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "0.0M+"
+  },
+  {
+    "t": 1386.5,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "0.0769255px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "0.0M+"
+  },
+  {
+    "t": 1435,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "0.0186425px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "0.0M+"
+  },
+  {
+    "t": 1483.6,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "1.0915e-08px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "0.2M+"
+  },
+  {
+    "t": 1532.3,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "0.4M+"
+  },
+  {
+    "t": 1580.8,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "0.6M+"
+  },
+  {
+    "t": 1629.5,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "0.8M+"
+  },
+  {
+    "t": 1678.1,
+    "intro": {
+      "transform": "none",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "headline": {
+      "transform": "matrix(0.999452, 0.0331142, -0.0331142, 0.999452, 0, 75.8972)",
+      "opacity": "0.557214",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.926, 0.0784481, -0.0784481, 0.926, 0, 0)",
+      "opacity": "0.654116",
+      "dash": "0px"
+    },
+    "counter": "1.0M+"
+  },
+  {
+    "t": 1754.6,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999897, 0.0143201, -0.0143201, 0.999897, 0, 32.8165)",
+      "opacity": "0.808548",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.983007, 0.0421279, -0.0421279, 0.983007, 0, 0)",
+      "opacity": "0.824716",
+      "dash": "0px"
+    },
+    "counter": "1.0M+"
+  },
+  {
+    "t": 1803,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999964, 0.00847914, -0.00847914, 0.999964, 0, 19.4307)",
+      "opacity": "0.886641",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.00309, 0.0279767, -0.0279767, 1.00309, 0, 0)",
+      "opacity": "0.885887",
+      "dash": "0px"
+    },
+    "counter": "1.3M+"
+  },
+  {
+    "t": 1851.7,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999987, 0.00500905, -0.00500905, 0.999987, 0, 11.4786)",
+      "opacity": "0.933034",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.01601, 0.0184802, -0.0184802, 1.01601, 0, 0)",
+      "opacity": "0.925569",
+      "dash": "0px"
+    },
+    "counter": "1.4M+"
+  },
+  {
+    "t": 1900.3,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999996, 0.00292667, -0.00292667, 0.999996, 0, 6.70666)",
+      "opacity": "0.960873",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.02439, 0.0121571, -0.0121571, 1.02439, 0, 0)",
+      "opacity": "0.951433",
+      "dash": "0px"
+    },
+    "counter": "1.5M+"
+  },
+  {
+    "t": 1948.9,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999999, 0.00166306, -0.00166306, 0.999999, 0, 3.81102)",
+      "opacity": "0.977766",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.02991, 0.00791419, -0.00791419, 1.02991, 0, 0)",
+      "opacity": "0.968552",
+      "dash": "0px"
+    },
+    "counter": "1.6M+"
+  },
+  {
+    "t": 1997.6,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0.000900175, -0.000900175, 1, 0, 2.06281)",
+      "opacity": "0.987966",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.03358, 0.00505689, -0.00505689, 1.03358, 0, 0)",
+      "opacity": "0.979977",
+      "dash": "0px"
+    },
+    "counter": "1.6M+"
+  },
+  {
+    "t": 2073.9,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.6M+"
+  },
+  {
+    "t": 2122.5,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.8M+"
+  },
+  {
+    "t": 2205.9,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.8M+"
+  },
+  {
+    "t": 2261.4,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.8M+"
+  },
+  {
+    "t": 2310,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2365.6,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2415.6,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2471.2,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2526.9,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2582.4,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2631.1,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2679.7,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2728.4,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2777,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2825.5,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 119.986)",
+      "opacity": "0.3",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.873441, 0.107245, -0.107245, 0.873441, 0, 0)",
+      "opacity": "0.5",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2874.2,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.998903, 0.0468256, -0.0468256, 0.998903, 0, 107.343)",
+      "opacity": "0.373758",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.888224, 0.0995792, -0.0995792, 0.888224, 0, 0)",
+      "opacity": "0.54309",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2922.8,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999608, 0.0279827, -0.0279827, 0.999608, 0, 64.1325)",
+      "opacity": "0.62585",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.940758, 0.0695711, -0.0695711, 0.940758, 0, 0)",
+      "opacity": "0.697897",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 2971.5,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999866, 0.0163848, -0.0163848, 0.999866, 0, 37.5485)",
+      "opacity": "0.780941",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.976261, 0.0467176, -0.0467176, 0.976261, 0, 0)",
+      "opacity": "0.804306",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3020.1,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999953, 0.00966404, -0.00966404, 0.999953, 0, 22.1461)",
+      "opacity": "0.870799",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(0.998878, 0.0310078, -0.0310078, 0.998878, 0, 0)",
+      "opacity": "0.872997",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3068.6,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999984, 0.0057263, -0.0057263, 0.999984, 0, 13.1222)",
+      "opacity": "0.923445",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.01326, 0.0205318, -0.0205318, 1.01326, 0, 0)",
+      "opacity": "0.917083",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3117.3,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999994, 0.00335694, -0.00335694, 0.999994, 0, 7.69265)",
+      "opacity": "0.955121",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.0226, 0.0135179, -0.0135179, 1.0226, 0, 0)",
+      "opacity": "0.945903",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3166.4,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(0.999998, 0.00191278, -0.00191278, 0.999998, 0, 4.38327)",
+      "opacity": "0.974428",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.02877, 0.00878957, -0.00878957, 1.02877, 0, 0)",
+      "opacity": "0.965035",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3221.5,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0.000965649, -0.000965649, 1, 0, 2.21285)",
+      "opacity": "0.98709",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.03325, 0.00531685, -0.00531685, 1.03325, 0, 0)",
+      "opacity": "0.978941",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3270.1,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0.000490595, -0.000490595, 1, 0, 1.12423)",
+      "opacity": "0.993441",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.03579, 0.00332205, -0.00332205, 1.03579, 0, 0)",
+      "opacity": "0.986874",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3318.9,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0.000222181, -0.000222181, 1, 0, 0.509141)",
+      "opacity": "0.99703",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.03748, 0.00199609, -0.00199609, 1.03748, 0, 0)",
+      "opacity": "0.992126",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3367.2,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 8.44458e-05, -8.44458e-05, 1, 0, 0.193513)",
+      "opacity": "0.998871",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.03856, 0.00114457, -0.00114457, 1.03856, 0, 0)",
+      "opacity": "0.99549",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3415.8,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 2.25867e-05, -2.25867e-05, 1, 0, 0.0517589)",
+      "opacity": "0.999698",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.03924, 0.000606783, -0.000606783, 1.03924, 0, 0)",
+      "opacity": "0.99761",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3464.5,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 2.54286e-06, -2.54286e-06, 1, 0, 0.00582712)",
+      "opacity": "0.999966",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.03964, 0.000287032, -0.000287032, 1.03964, 0, 0)",
+      "opacity": "0.99887",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3513.1,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.03986, 0.000113534, -0.000113534, 1.03986, 0, 0)",
+      "opacity": "0.999553",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3561.7,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.03996, 3.23161e-05, -3.23161e-05, 1.03996, 0, 0)",
+      "opacity": "0.999873",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3610.4,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.03999, 4.17991e-06, -4.17991e-06, 1.03999, 0, 0)",
+      "opacity": "0.999984",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3658.8,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 1.81173e-09, -1.81173e-09, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3707.5,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3756.1,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3804.7,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3853.2,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3901.9,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3950.6,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 3999.1,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 4047.8,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 4096.6,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 4145.1,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  },
+  {
+    "t": 4193.6,
+    "intro": null,
+    "headline": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "portrait": {
+      "transform": "matrix(1.04, 0, 0, 1.04, 0, 0)",
+      "opacity": "1",
+      "dash": "0px"
+    },
+    "counter": "1.9M+"
+  }
+]

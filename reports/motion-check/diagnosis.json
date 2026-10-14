@@ -1,0 +1,118 @@
+[
+  {
+    "width": 1440,
+    "height": 1000,
+    "reducedMotion": "no-preference",
+    "early": {
+      "intro": true,
+      "reduced": false,
+      "desktopGate": true
+    },
+    "before": {
+      "static": false,
+      "pins": 3,
+      "lenis": true,
+      "hero": "matrix(0.997564, -0.06976, 0.06976, 0.997564, 0, 0)",
+      "phone": "matrix(0.551612, -0.179231, 0.179231, 0.551612, 0, 0)",
+      "rail": "matrix(1, 0, 0, 1, 0, 0)",
+      "intro": false
+    },
+    "after": {
+      "static": false,
+      "pins": 3,
+      "lenis": true,
+      "hero": "matrix(1.03067, -0.0165797, 0.0165797, 1.03067, 0, 0)",
+      "phone": "matrix(0.515699, -0.265434, 0.265434, 0.515699, 0, -69.264)",
+      "rail": "matrix(1, 0, 0, 1, 0, 0)",
+      "intro": false
+    },
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "height": 768,
+    "reducedMotion": "no-preference",
+    "early": {
+      "intro": true,
+      "reduced": false,
+      "desktopGate": false
+    },
+    "before": {
+      "static": true,
+      "pins": 0,
+      "lenis": false,
+      "hero": "matrix(0.997564, -0.0697565, 0.0697565, 0.997564, 0, 0)",
+      "phone": "matrix(0.551613, -0.17923, 0.17923, 0.551613, 0, 0)",
+      "rail": "none",
+      "intro": false
+    },
+    "after": {
+      "static": true,
+      "pins": 0,
+      "lenis": false,
+      "hero": "matrix(0.997564, -0.0697565, 0.0697565, 0.997564, 0, 0)",
+      "phone": "matrix(0.551613, -0.17923, 0.17923, 0.551613, 0, 0)",
+      "rail": "none",
+      "intro": false
+    },
+    "errors": []
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "reducedMotion": "no-preference",
+    "early": {
+      "intro": true,
+      "reduced": false,
+      "desktopGate": false
+    },
+    "before": {
+      "static": true,
+      "pins": 0,
+      "lenis": false,
+      "hero": "matrix(0.997564, -0.0697565, 0.0697565, 0.997564, 0, 0)",
+      "phone": "matrix(0.418465, -0.135967, 0.135967, 0.418465, 0, 0)",
+      "rail": "none",
+      "intro": false
+    },
+    "after": {
+      "static": true,
+      "pins": 0,
+      "lenis": false,
+      "hero": "matrix(0.997564, -0.0697565, 0.0697565, 0.997564, 0, 0)",
+      "phone": "matrix(0.418465, -0.135967, 0.135967, 0.418465, 0, 0)",
+      "rail": "none",
+      "intro": false
+    },
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "height": 1000,
+    "reducedMotion": "reduce",
+    "early": {
+      "intro": true,
+      "reduced": true,
+      "desktopGate": true
+    },
+    "before": {
+      "static": true,
+      "pins": 0,
+      "lenis": false,
+      "hero": "matrix(0.997564, -0.0697565, 0.0697565, 0.997564, 0, 0)",
+      "phone": "matrix(0.551613, -0.17923, 0.17923, 0.551613, 0, 0)",
+      "rail": "none",
+      "intro": false
+    },
+    "after": {
+      "static": true,
+      "pins": 0,
+      "lenis": false,
+      "hero": "matrix(0.997564, -0.0697565, 0.0697565, 0.997564, 0, 0)",
+      "phone": "matrix(0.551613, -0.17923, 0.17923, 0.551613, 0, 0)",
+      "rail": "none",
+      "intro": false
+    },
+    "errors": []
+  }
+]

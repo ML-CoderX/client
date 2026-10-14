@@ -1,0 +1,334 @@
+{
+  "intro": {
+    "strokeStates": 1,
+    "unmounted": true
+  },
+  "hero": {
+    "headlineStates": 2,
+    "portraitStates": 2,
+    "counterStates": 4,
+    "float": {
+      "before": {
+        "transform": "none",
+        "opacity": "1",
+        "x": 4.929105758666992,
+        "y": 856.3505859375,
+        "width": 97.49290466308594,
+        "height": 136.4775390625
+      },
+      "after": {
+        "transform": "none",
+        "opacity": "1",
+        "x": 4.929105758666992,
+        "y": 856.3505859375,
+        "width": 97.49290466308594,
+        "height": 136.4775390625
+      }
+    },
+    "parallax": {
+      "before": {
+        "transform": "matrix(0.418465, -0.135967, 0.135967, 0.418465, 0, 0)",
+        "opacity": "1",
+        "x": 4.929105758666992,
+        "y": 856.3505859375,
+        "width": 97.49290466308594,
+        "height": 136.4775390625
+      },
+      "after": {
+        "transform": "matrix(0.418465, -0.135967, 0.135967, 0.418465, 0, 0)",
+        "opacity": "1",
+        "x": 4.929105758666992,
+        "y": 856.3505859375,
+        "width": 97.49290466308594,
+        "height": 136.4775390625
+      }
+    }
+  },
+  "cursor": {
+    "transform": "none",
+    "opacity": "0",
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "statement": {
+    "before": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "0.85",
+      "x": 24,
+      "y": 784.625,
+      "width": 9.703125,
+      "height": 52.796875
+    },
+    "after": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "x": 24,
+      "y": 295.625,
+      "width": 9.703125,
+      "height": 52.796875
+    }
+  },
+  "rings": {
+    "before": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "x": 24,
+      "y": 848.59375,
+      "width": 62,
+      "height": 90
+    },
+    "after": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "x": 24,
+      "y": 536.59375,
+      "width": 62,
+      "height": 90
+    },
+    "frames": [
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)"
+    ],
+    "hover": {
+      "transform": "none",
+      "opacity": "1",
+      "x": 24,
+      "y": 536.59375,
+      "width": 62,
+      "height": 62
+    }
+  },
+  "fans": {
+    "before": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "0.8",
+      "x": 24,
+      "y": 818.546875,
+      "width": 164,
+      "height": 258.59375
+    },
+    "after": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "x": 24,
+      "y": 295.546875,
+      "width": 164,
+      "height": 258.59375
+    },
+    "parallax": [
+      "none",
+      "none",
+      "none",
+      "none"
+    ]
+  },
+  "reactions": [
+    {
+      "button": "!\nShocked",
+      "word": "WAIT. WHAT?!",
+      "early": {
+        "transform": "matrix(0.891241, 0.125256, -0.125256, 0.891241, 0, 0)",
+        "opacity": "0.393688",
+        "x": 84.16087341308594,
+        "y": 357.9766845703125,
+        "width": 221.6782684326172,
+        "height": 240.827880859375
+      },
+      "late": {
+        "transform": "none",
+        "opacity": "1",
+        "x": 87.5,
+        "y": 358.390625,
+        "width": 215,
+        "height": 240
+      }
+    },
+    {
+      "button": "✧\nImpressed",
+      "word": "Okay, I see you.",
+      "early": {
+        "transform": "matrix(0.891241, 0.125256, -0.125256, 0.891241, 0, 0)",
+        "opacity": "0.468711",
+        "x": 84.16087341308594,
+        "y": 357.9766845703125,
+        "width": 221.6782684326172,
+        "height": 240.827880859375
+      },
+      "late": {
+        "transform": "none",
+        "opacity": "1",
+        "x": 87.5,
+        "y": 358.390625,
+        "width": 215,
+        "height": 240
+      }
+    },
+    {
+      "button": "…\nDisappointed",
+      "word": "But… why?",
+      "early": {
+        "transform": "matrix(0.891241, 0.125256, -0.125256, 0.891241, 0, 0)",
+        "opacity": "0.362881",
+        "x": 84.16087341308594,
+        "y": 357.9766845703125,
+        "width": 221.6782684326172,
+        "height": 240.827880859375
+      },
+      "late": {
+        "transform": "none",
+        "opacity": "1",
+        "x": 87.5,
+        "y": 358.390625,
+        "width": 215,
+        "height": 240
+      }
+    },
+    {
+      "button": "↗\nvamos!",
+      "word": "VAMOS !!!",
+      "early": {
+        "transform": "matrix(0.891241, 0.125256, -0.125256, 0.891241, 0, 0)",
+        "opacity": "0.365001",
+        "x": 84.16087341308594,
+        "y": 357.9766845703125,
+        "width": 221.6782684326172,
+        "height": 240.827880859375
+      },
+      "late": {
+        "transform": "none",
+        "opacity": "1",
+        "x": 87.5,
+        "y": 358.390625,
+        "width": 215,
+        "height": 240
+      }
+    }
+  ],
+  "marquee": {
+    "before": {
+      "transform": "none",
+      "opacity": "1",
+      "x": 0,
+      "y": 276.9375,
+      "width": 2129.75,
+      "height": 64
+    },
+    "after": {
+      "transform": "none",
+      "opacity": "1",
+      "x": 0,
+      "y": 276.9375,
+      "width": 2129.75,
+      "height": 64
+    },
+    "hoverBefore": {
+      "transform": "none",
+      "opacity": "1",
+      "x": 0,
+      "y": 276.9375,
+      "width": 2129.75,
+      "height": 64
+    },
+    "hoverAfter": {
+      "transform": "none",
+      "opacity": "1",
+      "x": 0,
+      "y": 276.9375,
+      "width": 2129.75,
+      "height": 64
+    }
+  },
+  "form": {
+    "focus": {
+      "transform": "matrix(1, 0, 0, 1, 3, 0)",
+      "opacity": "1",
+      "x": 52,
+      "y": 589.609375,
+      "width": 292,
+      "height": 18
+    },
+    "magnet": {
+      "transform": "none",
+      "opacity": "1",
+      "x": 49,
+      "y": 559.765625,
+      "width": 292,
+      "height": 48
+    },
+    "successBefore": {
+      "transform": "none",
+      "opacity": "0.929099",
+      "x": 49,
+      "y": 31.15625,
+      "width": 72,
+      "height": 72
+    },
+    "successAfter": {
+      "transform": "none",
+      "opacity": "1",
+      "x": 49,
+      "y": 31.15625,
+      "width": 72,
+      "height": 72
+    }
+  },
+  "footer": {
+    "before": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "0.8",
+      "x": 24,
+      "y": 919.609375,
+      "width": 342,
+      "height": 45.859375
+    },
+    "after": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "x": 24,
+      "y": 571.609375,
+      "width": 342,
+      "height": 45.859375
+    }
+  },
+  "global": {
+    "mode": "reduced",
+    "pins": 0,
+    "progress": {
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 3
+    },
+    "overflow": 0,
+    "stableLenis": true
+  },
+  "errors": []
+}
